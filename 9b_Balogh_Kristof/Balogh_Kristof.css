@@ -1,0 +1,37 @@
+/* a BODY reszen belul allitson be hatterkepet es a betu szine 'azure' legyen */
+body{
+    background-image: url("hatter.webp");
+    color:azure;
+}
+.banner{
+    width: 800px;
+}
+.forras{
+    font-style: italic;
+    margin: 15px;
+}
+.lablec{
+    border-top: 3px solid white;
+}
+.szerzo{
+    font-weight: bold;
+}
+table{
+    width: 1000px;
+    margin: 0  auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.logo{
+    width: 190px;
+}
+.cikk{
+    width: 100%;
+}
+p{
+    margin: 15px;
+    font-style: justify;
+}
+.menu { 
+    border-right: 3px solid white;
+}

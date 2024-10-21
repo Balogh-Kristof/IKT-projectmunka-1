@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+h1 {
+    font-size: 100-px;
+}
+h2,h3{
+    color: rgba(146, 216, 17, 0.582);
+}
+a{
+    font-weight: bold;
+}
+a:link{
+    color: chartreuse;
+}
+a:visited {
+    /*betu szine*/
+    color: pink;
+    background-color: transparent;
+    /*ne maradjon alahuzva*/
+    text-decoration: none;
+  }
+  a:hover{
+    color:gold;
+    font-weight: normal;
+    font-size:larger
+  }
+  a:active{
+    color:aliceblue
+  }
+  img{
+    width: 100%;
+  }
